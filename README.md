@@ -1,5 +1,8 @@
 <h1 align="center">👋 Hi, I’m Julian</h1>
 <h2 align="center">Backend/Frontend development enthusiast</h2>
+<p align="center">
+	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=30&color=FFFFFF&background=000000&center=true&vCenter=true&width=500&height=100&lines=Junior+Backend/frontend+Programmer;Algorithms;Always+learning+new+things"></a>
+<p/>
 
 
 - 🍃 I love creating new things
