@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m Julian</h1>
-<h2 align="center">Backend/Frontend development enthusiast</h2>
+<h2 align="center">Developer</h2>
 <p align="center">
 	<a href="https://twitter.com/noduelee"><img src="https://readme-typing-svg.herokuapp.com?size=30&color=FFFFFF&background=000000&center=true&vCenter=true&width=700&height=100&lines=Junior+Backend/frontend+Programmer;Algorithms;Always+learning+new+things"></a>
 <p/>
